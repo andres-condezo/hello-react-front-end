@@ -31,6 +31,7 @@ Table of Contents
   * [Major languages](#major-languages)
   * [Frameworks](#frameworks)
   * [Technologies used:](#technologies-used)
+* [Back-end Repository](#back-end-repository)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Set up:](#set-up)
@@ -60,6 +61,10 @@ Table of Contents
 - npm
 - Webpack
 - Redux
+
+## Back-end Repository
+
+- [hello-rails-back-end]( https://github.com/andres-condezo/hello-rails-back-end ) 
 
 ## Getting Started
 
